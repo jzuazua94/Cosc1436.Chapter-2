@@ -5,11 +5,12 @@
 //  Created by Javier Zuazua on 8/13/17.
 //  Copyright © 2017 Javier Zuazua. All rights reserved.
 //
-
+// A crazy mixed up program
 #include <iostream>
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+using namespace std;
+
+int main(){
+    cout << "In 1492 Colmbus sailed the ocean blue." << endl;
     return 0;
 }
